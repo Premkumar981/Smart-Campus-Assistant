@@ -1,1 +1,1 @@
-# Smart-Campus-Assistant
+Live website: https://smartcampusassistant.vercel.app
